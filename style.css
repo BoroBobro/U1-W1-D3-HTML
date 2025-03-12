@@ -45,7 +45,8 @@ margin-top: 0px;
 .line{
         
     border-left:  2px solid orange;
-margin: 10px;
+    margin-block: 10px;
+    padding-left: 10px
 }
 
 
