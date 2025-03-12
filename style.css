@@ -1,0 +1,54 @@
+header{
+    display: block;
+    color: #032c26;
+    margin-bottom: 60px;
+    font-size: small;
+    }
+    
+
+hr{
+    border-color: #fff0cc;
+ }
+ 
+.wow{
+    font-size: large;
+    ;
+}
+.content-1{
+    max-width: 500px;
+    margin: auto;
+    
+  }
+  #content-center{
+    text-align: center;     
+margin-top: 0px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60px;
+    margin-top: 0;
+    ;
+}
+
+
+.focaccia-1{
+    max-width: 600px;
+    margin-inline: auto;
+  }
+  .para-img{
+    display: block;
+    text-align: center;
+    color: rgba(104, 104, 102, 0.847);
+}
+.line{
+        
+    border-left:  2px solid orange;
+margin: 10px;
+}
+
+
+
+
+
